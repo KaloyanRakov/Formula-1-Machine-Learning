@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <title>Formula 1 Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+
+<body>
+    <h1>Formula 1 Prediction Model Dashboard</h1>
+    <h2>Top 3 Teams</h2>
+    <div class="cards-container">
+        {% for index, row in top_3_teams.iterrows() %}
+        <div class="card card-{{ loop.index }}">
+            <img src="{{ url_for('static', filename=row['Logo']) }}" alt="{{ row['Team'] }} Logo" width="100">
+            <h3>{{ row['Team'] }}</h3>
+        </div>
+        {% endfor %}
+    </div>
+    </div>
+
+    <h2>Team Standings</h2>
+    <div>
+        {{ team_table|safe }}
+    </div>
+
+    <h2>Races</h2>
+    <div class="cards-container-races">
+        {% for loc in locations %}
+        {% set flag = location_flags.get(loc, '') %}
+        <a href="{{ url_for('race_details', location_name=loc) }}" class="card-link">
+            <div class="card-races" style="background-image: url('{{ url_for('static', filename=flag) }}');">
+                <h3>{{ loc }}</h3>
+            </div>
+        </a>
+        {% endfor %}
+    </div>
+</body>
+
+</html>

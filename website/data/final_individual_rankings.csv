@@ -1,0 +1,121 @@
+Driver,Team,Grid,Predicted,Actual,Difference,Location
+Oscar Piastri,McLaren,2,1,9,-8,Australia
+Lando Norris,McLaren,1,2,1,+1,Australia
+Max Verstappen,Red Bull Racing,3,3,2,+1,Australia
+George Russell,Mercedes,4,4,3,+1,Australia
+Yuki Tsunoda,Racing Bulls,5,5,12,-7,Australia
+Alexander Albon,Williams,6,6,5,+1,Australia
+Pierre Gasly,Alpine,9,7,11,-4,Australia
+Charles Leclerc,Ferrari,7,8,8,✔,Australia
+Lewis Hamilton,Ferrari,8,9,10,-1,Australia
+Carlos Sainz Jr,Williams,10,10,NC,X,Australia
+Isack Hadjar,Racing Bulls,11,11,NC,X,Australia
+Fernando Alonso,Aston Martin,12,12,NC,X,Australia
+Lance Stroll,Aston Martin,13,13,6,+7,Australia
+Liam Lawson,Red Bull Racing,18,14,NC,X,Australia
+Esteban Ocon,Haas,19,15,13,+2,Australia
+Gabriel Bortoleto,Kick Sauber,15,16,NC,X,Australia
+Jack Doohan,Alpine,14,17,NC,X,Australia
+Andrea Kimi Antonelli,Mercedes,16,18,4,+14,Australia
+Nico Hulkenberg,Kick Sauber,17,19,7,+12,Australia
+Oliver Bearman,Haas,20,20,14,+6,Australia
+Oscar Piastri,McLaren,1,1,1,✔,China
+Lewis Hamilton,Ferrari,5,2,DQ,X,China
+Lando Norris,McLaren,3,3,2,+1,China
+Max Verstappen,Red Bull Racing,4,4,4,✔,China
+George Russell,Mercedes,2,5,3,+2,China
+Isack Hadjar,Racing Bulls,7,6,11,-5,China
+Andrea Kimi Antonelli,Mercedes,8,7,6,+1,China
+Charles Leclerc,Ferrari,6,8,DQ,X,China
+Yuki Tsunoda,Racing Bulls,9,9,16,-7,China
+Alexander Albon,Williams,10,10,7,+3,China
+Gabriel Bortoleto,Kick Sauber,19,11,14,-3,China
+Carlos Sainz Jr,Williams,15,12,10,+2,China
+Jack Doohan,Alpine,18,13,13,✔,China
+Fernando Alonso,Aston Martin,13,14,NC,X,China
+Oliver Bearman,Haas,17,15,8,+7,China
+Pierre Gasly,Alpine,16,16,DQ,X,China
+Liam Lawson,Red Bull Racing,20,17,12,+5,China
+Nico Hulkenberg,Kick Sauber,12,18,15,+3,China
+Lance Stroll,Aston Martin,14,19,9,+10,China
+Esteban Ocon,Haas,11,20,5,+15,China
+Max Verstappen,Red Bull Racing,1,1,1,✔,Japan
+George Russell,Mercedes,5,2,5,-3,Japan
+Oscar Piastri,McLaren,3,3,3,✔,Japan
+Charles Leclerc,Ferrari,4,4,4,✔,Japan
+Lando Norris,McLaren,2,5,2,+3,Japan
+Isack Hadjar,Racing Bulls,7,6,8,-2,Japan
+Lewis Hamilton,Ferrari,8,7,7,✔,Japan
+Andrea Kimi Antonelli,Mercedes,6,8,6,+2,Japan
+Alexander Albon,Williams,9,9,9,✔,Japan
+Jack Doohan,Alpine,19,10,15,-5,Japan
+Esteban Ocon,Haas,18,11,18,-7,Japan
+Oliver Bearman,Haas,10,12,10,+2,Japan
+Lance Stroll,Aston Martin,20,13,20,-7,Japan
+Carlos Sainz Jr,Williams,15,14,14,✔,Japan
+Gabriel Bortoleto,Kick Sauber,17,15,19,-4,Japan
+Nico Hulkenberg,Kick Sauber,16,16,16,✔,Japan
+Liam Lawson,Racing Bulls,13,17,17,✔,Japan
+Yuki Tsunoda,Red Bull Racing,14,18,12,+6,Japan
+Fernando Alonso,Aston Martin,12,19,11,+8,Japan
+Pierre Gasly,Alpine,11,20,13,+7,Japan
+Oscar Piastri,McLaren,1,1,1,✔,Bahrain
+Andrea Kimi Antonelli,Mercedes,5,2,11,-9,Bahrain
+George Russell,Mercedes,3,3,2,+1,Bahrain
+Pierre Gasly,Alpine,4,4,7,-3,Bahrain
+Charles Leclerc,Ferrari,2,5,4,+1,Bahrain
+Lando Norris,McLaren,6,6,3,+3,Bahrain
+Max Verstappen,Red Bull Racing,7,7,6,+1,Bahrain
+Carlos Sainz Jr,Williams,8,8,NC,X,Bahrain
+Lewis Hamilton,Ferrari,9,9,5,+4,Bahrain
+Yuki Tsunoda,Red Bull Racing,10,10,9,+1,Bahrain
+Lance Stroll,Aston Martin,19,11,17,-6,Bahrain
+Alexander Albon,Williams,15,12,12,✔,Bahrain
+Gabriel Bortoleto,Kick Sauber,18,13,18,-5,Bahrain
+Liam Lawson,Racing Bulls,17,14,16,-2,Bahrain
+Nico Hulkenberg,Kick Sauber,16,15,DQ,X,Bahrain
+Oliver Bearman,Haas,20,16,10,+6,Bahrain
+Fernando Alonso,Aston Martin,13,17,15,+2,Bahrain
+Isack Hadjar,Racing Bulls,12,18,13,+5,Bahrain
+Esteban Ocon,Haas,14,19,8,+11,Bahrain
+Jack Doohan,Alpine,11,20,14,+6,Bahrain
+Max Verstappen,Red Bull Racing,1,1,2,-1,Saudi Arabia
+Andrea Kimi Antonelli,Mercedes,5,2,6,-4,Saudi Arabia
+George Russell,Mercedes,3,3,5,-2,Saudi Arabia
+Oscar Piastri,McLaren,2,4,1,+3,Saudi Arabia
+Charles Leclerc,Ferrari,4,5,3,+2,Saudi Arabia
+Lewis Hamilton,Ferrari,7,6,7,-1,Saudi Arabia
+Yuki Tsunoda,Red Bull Racing,8,7,NC,X,Saudi Arabia
+Carlos Sainz Jr,Williams,6,8,8,✔,Saudi Arabia
+Pierre Gasly,Alpine,9,9,NC,X,Saudi Arabia
+Esteban Ocon,Haas,19,10,14,-4,Saudi Arabia
+Lando Norris,McLaren,10,11,4,+7,Saudi Arabia
+Nico Hulkenberg,Kick Sauber,18,12,15,-3,Saudi Arabia
+Gabriel Bortoleto,Kick Sauber,20,13,18,-5,Saudi Arabia
+Oliver Bearman,Haas,15,14,13,+1,Saudi Arabia
+Jack Doohan,Alpine,17,15,17,-2,Saudi Arabia
+Lance Stroll,Aston Martin,16,16,16,✔,Saudi Arabia
+Fernando Alonso,Aston Martin,13,17,11,+6,Saudi Arabia
+Isack Hadjar,Racing Bulls,14,18,10,+8,Saudi Arabia
+Liam Lawson,Racing Bulls,12,19,12,+7,Saudi Arabia
+Alexander Albon,Williams,11,20,9,+11,Saudi Arabia
+Max Verstappen,Red Bull Racing,1,1,4,-3,Miami
+George Russell,Mercedes,5,2,3,-1,Miami
+Andrea Kimi Antonelli,Mercedes,3,3,6,-3,Miami
+Oscar Piastri,McLaren,4,4,1,+3,Miami
+Lando Norris,McLaren,2,5,2,+3,Miami
+Alexander Albon,Williams,7,6,5,+1,Miami
+Charles Leclerc,Ferrari,8,7,7,✔,Miami
+Oliver Bearman,Haas,19,8,NC,X,Miami
+Carlos Sainz Jr,Williams,6,9,9,✔,Miami
+Esteban Ocon,Haas,9,10,12,-2,Miami
+Lance Stroll,Aston Martin,18,11,16,-5,Miami
+Yuki Tsunoda,Red Bull Racing,10,12,10,+2,Miami
+Pierre Gasly,Alpine,20,13,13,✔,Miami
+Fernando Alonso,Aston Martin,17,14,15,-1,Miami
+Nico Hulkenberg,Kick Sauber,16,15,14,+1,Miami
+Liam Lawson,Racing Bulls,15,16,NC,X,Miami
+Isack Hadjar,Racing Bulls,11,17,11,+6,Miami
+Gabriel Bortoleto,Kick Sauber,13,18,NC,X,Miami
+Lewis Hamilton,Ferrari,12,19,8,+11,Miami
+Jack Doohan,Alpine,14,20,NC,X,Miami

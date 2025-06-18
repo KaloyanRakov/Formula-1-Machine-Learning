@@ -1,0 +1,11 @@
+Team,Predicted Points,Team Rank,Real Points,Real Team Position,Accuracy
+McLaren,175,1,246,1,✔
+Mercedes,149,2,141,2,✔
+Red Bull Racing,115,3,105,3,✔
+Ferrari,82,4,94,4,✔
+Williams,30,5,37,5,✔
+Racing Bulls,28,6,8,8,-2
+Alpine,21,7,7,9,-2
+Haas,6,8,20,6,+2
+Aston Martin,0,9,14,7,+2
+Kick Sauber,0,10,6,10,✔

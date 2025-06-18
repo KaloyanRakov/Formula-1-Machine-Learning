@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Formula 1 Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+
+<body>
+    <h1>Race Insight: {{ location_name }}</h1>
+    <h2>Top 3 Drivers</h2>
+    <div class="cards-container" style="margin-bottom: 60px;">
+        {% for index, row in custom_top_3_drivers.iterrows() %}
+        <div class="card card-{{ loop.index }}">
+            <img class="driver-photo" src="{{ url_for('static', filename=row['Image']) }}"
+                alt="{{ row['Driver'] }} photo">
+            <h3>{{ row['Driver'] }}</h3>
+        </div>
+        {% endfor %}
+    </div>
+    <div>
+        {{ race_table|safe }}
+    </div>
+
+</body>
+
+</html>
